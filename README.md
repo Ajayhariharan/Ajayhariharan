@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Ajay%20H&fontSize=70&fontColor=00d4ff&animation=twinkling&fontAlignY=38&desc=Data%20Science%20%7C%20Web%20Dev%20%7C%20UI%2FUX&descAlignY=55&descSize=18&descColor=a0a0c0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Ajay%20H&fontSize=75&fontColor=00d4ff&animation=twinkling&fontAlignY=40&desc=✦%20Data%20Science%20%7C%20Web%20Dev%20%7C%20UI%2FUX%20✦&descAlignY=58&descSize=20&descColor=ffffff&stroke=00d4ff&strokeWidth=2)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Hey+there!+I'm+Ajay+%F0%9F%91%8B;3rd+Year+Integrated+MSc+Data+Science;Web+Developer+%26+UI%2FUX+Designer;Machine+Learning+Enthusiast;Building+Data-Driven+Experiences+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -136,9 +136,15 @@ I love solving problems through code — elegantly and efficiently.
 
 <div align="center">
 
-![snake gif](https://github.com/Ajayhariharan/Ajayhariharan/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ajayhariharan/Ajayhariharan/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ajayhariharan/Ajayhariharan/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Ajayhariharan/Ajayhariharan/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
-> 💡 *To enable the snake animation, add the [GitHub Action](https://github.com/Platane/snk) to your profile repo under `.github/workflows/snake.yml`*
+<br/>
+
+> ⚡ **One-time setup:** In repo `Ajayhariharan/Ajayhariharan`, add `.github/workflows/snake.yml` using [Platane/snk](https://github.com/Platane/snk) — auto-generates daily!
 
 </div>
 
@@ -148,7 +154,11 @@ I love solving problems through code — elegantly and efficiently.
 
 <div align="center">
 
-<img src="https://github-profile-3d-contrib.vercel.app/api/top?username=Ajayhariharan&theme=nightowl&disable_animations=false" alt="3D Contribution City" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajayhariharan&theme=tokyo-night&hide_border=true&area=true&color=00d4ff&line=00d4ff&point=ffffff&area_color=1a1a2e" alt="Contribution Activity Graph" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-3d-contrib.vercel.app/api/top?username=Ajayhariharan&theme=nightowl" alt="3D Contribution City" width="100%"/>
 
 <br/>
 
