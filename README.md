@@ -5,21 +5,22 @@
   Hi, I'm <strong>Ajay</strong>
 </h1>
 
-<h3>Full Stack Developer | MERN • Python • Flutter</h3>
+<h3>3rd Year Integrated MSc Data Science Student | Web Developer & Designer</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+    I'm a Data Science student with a strong passion for web development and UI/UX design.  
+    I enjoy blending data-driven insights with functional, visually engaging digital experiences. 
+    Whether it's building machine learning models or crafting sleek front-end interfaces, I love solving problems through code.
   </p>
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
     <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/📧_yourmail@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Data_&_Web)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🎓_MSc_Data_Science-1e1e2e?style=for-the-badge" />
   </p>
 
 <h3>🌐 Socials</h3>
@@ -42,7 +43,6 @@
   </a>
 </p>
 
-
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
@@ -54,29 +54,29 @@
 <table>
 <tr>
 <td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
+<h3>💻 Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
+ <img src="https://skillicons.dev/icons?i=python,r,html,css,js,c,cpp" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
+   <h3>📚 Frameworks & Data Tools</h3>
+<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,tensorflow,pytorch,scikitlearn" />
 </td>
 </tr>
 
 <tr>
 <td width="50%" align="center">
   <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 <br/><br/>
 </td>
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,figma,jupyter,docker" />
 </td>
 </tr>
 </table>
@@ -92,10 +92,11 @@
 
 ---
 
-## ❤️ Support Me
+## 🎯 SkillRack Profile
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  <a href="https://www.skillrack.com/profile/your-skillrack-id">
+    <img src="https://img.shields.io/badge/SkillRack-Profile-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="SkillRack" />
   </a>
 </p>
+
