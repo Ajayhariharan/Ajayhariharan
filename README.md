@@ -7,12 +7,13 @@
 
 ---
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
 ### 🌟 About Me
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Hey+there!+I'm+Ajay+%F0%9F%91%8B;Integrated+MSc+Data+Science;Web+Developer+%26+UI%2FUX+Designer;Machine+Learning+Enthusiast;Building+Data-Driven+Experiences+%F0%9F%9A%80" alt="Typing SVG" />
 
+
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
 Aspiring Data Scientist, cooking raw data into meaningful insights. Passionate about AI, analytics, and turning ideas into practical solutions. Always learning, experimenting, and building with purpose.
 
