@@ -12,16 +12,11 @@
 
 ### 🌟 About Me
 
-I'm a **Data Science student** with a deep passion for **web development** and **UI/UX design**.  
-I blend data-driven insights with functional, visually engaging digital experiences.
-
-Whether it's building **machine learning models** or crafting **sleek front-end interfaces**,  
-I love solving problems through code — elegantly and efficiently.
+Aspiring Data Scientist, cooking raw data into meaningful insights. Passionate about AI, analytics, and turning ideas into practical solutions. Always learning, experimenting, and building with purpose.
 
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/🌍_India-0d1117?style=for-the-badge&logoColor=white" />
   <a href="mailto:ajayhofc@gmail.com"><img src="https://img.shields.io/badge/📧_ajayhofc@gmail.com-EA4335?style=for-the-badge" /></a>
   <img src="https://img.shields.io/badge/🎓_MSc_Data_Science-1e1e2e?style=for-the-badge" />
 </p>
@@ -41,7 +36,6 @@ I love solving problems through code — elegantly and efficiently.
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Ajayhariharan&style=flat-square&color=00d4ff" alt="Profile Views" />
 
 ---
 
@@ -50,7 +44,7 @@ I love solving problems through code — elegantly and efficiently.
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,r,html,css,js,c,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,c,cpp&theme=dark" />
 
 <br/><br/>
 
@@ -77,60 +71,7 @@ I love solving problems through code — elegantly and efficiently.
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <br/>
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ajayhariharan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajayhariharan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-  <br/><br/>
-
-  <img src="https://streak-stats.demolab.com?user=Ajayhariharan&theme=tokyonight&hide_border=true&fire=00d4ff&ring=00d4ff&currStreakLabel=00d4ff" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Ajayhariharan&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1" alt="Trophies"/>
-
-</div>
-
----
-
-## 🎯 SkillRack Profile
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/SkillRack-Competitive%20Coder-00d4ff?style=for-the-badge&logo=codeforces&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://www.skillrack.com/faces/resume.xhtml?id=513892&key=d6815709f5ca1b5b0997ecef2d0800bef5363c4c">
-  <img src="https://img.shields.io/badge/🏆_View_Full_SkillRack_Profile-1a1a2e?style=for-the-badge&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<table>
-<tr>
-  <td align="center">
-    <img src="https://img.shields.io/badge/Programs%20Solved-⚡%20Active-00d4ff?style=for-the-badge" /><br/>
-    <sub>Check live count on profile</sub>
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/SkillRack%20Points-🎯%20Earned-7c3aed?style=for-the-badge" /><br/>
-    <sub>Updated in real-time</sub>
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/Rank-🚀%20Competitive-f59e0b?style=for-the-badge" /><br/>
-    <sub>View on SkillRack</sub>
-  </td>
-</tr>
-</table>
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -150,7 +91,7 @@ I love solving problems through code — elegantly and efficiently.
 
 ---
 
-## 🏙️ GitHub City — My Contribution Skyline
+## Contribution Skyline
 
 <div align="center">
 
@@ -168,9 +109,6 @@ I love solving problems through code — elegantly and efficiently.
 ---
 
 <div align="center">
-
-
-**Glorious Purpose**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Data+Science+%2B+Web+Dev+%3D+%E2%9C%A8+Magic;Always+learning%2C+always+building...;ajayhofc%40gmail.com" alt="footer typing" />
 
