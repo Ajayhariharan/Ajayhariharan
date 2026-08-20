@@ -19,25 +19,26 @@ Aspiring Data Scientist, cooking raw data into meaningful insights. Passionate a
 
 <br/>
 
-<p>
-  <a href="mailto:ajayhofc@gmail.com"><img src="https://img.shields.io/badge/📧_ajayhofc@gmail.com-EA4335?style=for-the-badge" /></a>
-  <img src="https://img.shields.io/badge/🎓_MSc_Data_Science-1e1e2e?style=for-the-badge" />
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://shields.io" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://shields.io" />
+  </a>
+  <a href="mailto:ajayhofc@gmail.com">
+    <img src="https://shields.io" />
+  </a>
 </p>
+
 
 <br clear="all"/>
 
 ---
 
-## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/Ajayhariharan">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/ajay-h-689a1b35a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 
 ---
