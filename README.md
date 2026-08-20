@@ -53,7 +53,7 @@ Aspiring Data Scientist, cooking raw data into meaningful insights. Passionate a
 <br/><br/>
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,mssql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis&theme=dark" />
 <br/>
 <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
 
