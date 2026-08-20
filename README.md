@@ -16,29 +16,21 @@
 <img align="right" width="140" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
 Aspiring Data Scientist, cooking raw data into meaningful insights. Passionate about AI, analytics, and turning ideas into practical solutions. Always learning, experimenting, and building with purpose.
-
 <br/>
 
-
-
 <p align="center">
+  <a href="mailto:ajayhofc@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://github.com/Ajayhariharan">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/ajay-h-689a1b35a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ajayhofc@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 <br clear="all"/>
-
----
-
-
-
 
 ---
 
