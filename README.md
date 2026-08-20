@@ -19,7 +19,7 @@ Aspiring Data Scientist, cooking raw data into meaningful insights. Passionate a
 
 <br/>
 
-## 🌐 Connect With Me
+##### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Ajayhariharan">
