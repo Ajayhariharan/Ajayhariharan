@@ -5,7 +5,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"/>
 
 ### 🌟 About Me
 
@@ -91,15 +91,10 @@ Aspiring Data Scientist, cooking raw data into meaningful insights. Passionate a
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajayhariharan&theme=tokyo-night&hide_border=true&area=true&color=00d4ff&line=00d4ff&point=ffffff&area_color=1a1a2e" alt="Contribution Activity Graph" width="100%"/>
 
-<br/>
-
-
-<br/><br/>
-
-
 </div>
 
----
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
 <div align="center">
 
