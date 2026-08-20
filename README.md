@@ -30,7 +30,7 @@ Aspiring Data Scientist, cooking raw data into meaningful insights. Passionate a
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Ajayhariharan">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
