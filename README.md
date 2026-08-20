@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Ajay%20H&fontSize=75&fontColor=00d4ff&animation=twinkling&fontAlignY=40&descAlignY=58&descSize=20&descColor=ffffff&stroke=00d4ff&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=AJAY%20HARIHARAN&fontSize=75&fontColor=00d4ff&animation=twinkling&fontAlignY=40&descAlignY=58&descSize=20&descColor=ffffff&stroke=00d4ff&strokeWidth=2)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Hey+there!+I'm+Ajay+%F0%9F%91%8B;Integrated+MSc+Data+Science;Web+Developer+%26+UI%2FUX+Designer;Machine+Learning+Enthusiast;Building+Data-Driven+Experiences+%F0%9F%9A%80" alt="Typing SVG" />
 
