@@ -158,13 +158,6 @@ I love solving problems through code — elegantly and efficiently.
 
 <br/>
 
-<img src="https://github-profile-3d-contrib.vercel.app/api/top?username=Ajayhariharan&theme=nightowl" alt="3D Contribution City" width="100%"/>
-
-<br/>
-
-<a href="https://skyline.github.com/Ajayhariharan/2024">
-  <img src="https://img.shields.io/badge/🌆_View_My_GitHub_Skyline_City-0d1117?style=for-the-badge&logoColor=white" />
-</a>
 
 <br/><br/>
 
@@ -176,9 +169,8 @@ I love solving problems through code — elegantly and efficiently.
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=twinkling)
 
-**✨ Thanks for visiting! Let's build something amazing together. ✨**
+**Glorious Purpose**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Data+Science+%2B+Web+Dev+%3D+%E2%9C%A8+Magic;Always+learning%2C+always+building...;ajayhofc%40gmail.com" alt="footer typing" />
 
