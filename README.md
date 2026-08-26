@@ -89,19 +89,11 @@ Aspiring Data Scientist, cooking raw data into meaningful insights. Passionate a
 
 ---
 
-## Contribution Skyline
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajayhariharan&theme=tokyo-night&hide_border=true&area=true&color=00d4ff&line=00d4ff&point=ffffff&area_color=1a1a2e" alt="Contribution Activity Graph" width="100%"/>
-
-</div>
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Data+Science+%2B+Web+Dev+%3D+%E2%9C%A8+Magic;Always+learning%2C+always+building...;ajayhofc%40gmail.com" alt="footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Always+learning%2C+always+building...;ajayhofc%40gmail.com" alt="footer typing" />
 
 </div>
