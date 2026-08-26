@@ -15,19 +15,16 @@
   </picture>
 </div>
 
-<div align="center">
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"/>
 <br><br>
+
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=100&duration=2000&pause=1000&color=F74E12&center=true&vCenter=true&repeat=false&width=1000&height=150&lines=A+J+A+Y" alt="Typing SVG" />
-
-
-
+</div>
 
 ### 🌟 About Me
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&left=true&left=true&multiline=false&repeat=true&width=700&lines=Hey+there!+I'm+Ajay+%F0%9F%91%8B;Integrated+MSc+Data+Science;Web+Developer+%26+UI%2FUX+Designer;Machine+Learning+Enthusiast;Building+Data-Driven+Experiences+%F0%9F%9A%80" alt="Typing SVG" />
-
 
 <img align="right" width="140" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
@@ -46,11 +43,12 @@ Aspiring Data Scientist, cooking raw data into meaningful insights. Passionate a
   </a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
 <br clear="all"/>
 
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-</div>
+
+
 
 ## 🛠️ Tech Arsenal
 
