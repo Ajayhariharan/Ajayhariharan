@@ -67,7 +67,6 @@ Aspiring Data Scientist, cooking raw data into meaningful insights. Passionate a
 
 
 
-## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -86,11 +85,6 @@ Aspiring Data Scientist, cooking raw data into meaningful insights. Passionate a
   />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ajayhariharan/Ajayhariharan/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ajayhariharan/Ajayhariharan/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Ajayhariharan/Ajayhariharan/output/github-contribution-grid-snake-dark.svg" />
-</picture>
 
 <br/>
 
