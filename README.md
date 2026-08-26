@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=AJAY%20HARIHARAN&fontSize=75&fontColor=00d4ff&animation=twinkling&fontAlignY=40&descAlignY=58&descSize=20&descColor=ffffff&stroke=00d4ff&strokeWidth=2)
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&letterSpacing=&duration=2000&pause=1000&color=F74E12&center=true&vCenter=true&repeat=false&width=435&height=50&lines=PIXEL+ART+GIFS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=330&letterSpacing=&duration=2000&pause=1000&color=F74E12&center=true&vCenter=true&repeat=false&width=435&height=50&lines=A+J+A+Y" alt="Typing SVG" />
 
 
 </div>
