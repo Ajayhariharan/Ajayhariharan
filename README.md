@@ -85,11 +85,6 @@ Aspiring Data Scientist, cooking raw data into meaningful insights. Passionate a
   />
 </picture>
 
-
-<br/>
-
-> ⚡ **One-time setup:** In repo `Ajayhariharan/Ajayhariharan`, add `.github/workflows/snake.yml` using [Platane/snk](https://github.com/Platane/snk) — auto-generates daily!
-
 </div>
 
 ---
